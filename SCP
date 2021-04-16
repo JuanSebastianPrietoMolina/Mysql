@@ -1,0 +1,1654 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es" lang="es">
+
+<head>
+    <title>La Fundación SCP</title>
+    
+    
+    
+    <script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--3e3a6f7dbcc9/common--javascript/init.combined.js"></script>
+    <script  type="text/javascript">
+        var URL_HOST = 'www.wikidot.com';
+        var URL_DOMAIN = 'wikidot.com';
+        var USE_SSL =  true ;
+        var URL_STATIC = 'http://d3g0gp89917ko0.cloudfront.net/v--3e3a6f7dbcc9';
+        // global request information
+        
+        var WIKIREQUEST = {};
+        WIKIREQUEST.info = {};
+        
+        WIKIREQUEST.info.domain = "lafundacionscp.wikidot.com";
+        WIKIREQUEST.info.siteId = 560484;
+        WIKIREQUEST.info.siteUnixName = "lafundacionscp";
+        WIKIREQUEST.info.categoryId = 3617861;
+        WIKIREQUEST.info.themeId = 1;
+        WIKIREQUEST.info.requestPageName = "main";
+        OZONE.request.timestamp = 1618597295;
+        OZONE.request.date = new Date();
+        WIKIREQUEST.info.lang = 'es';
+                WIKIREQUEST.info.pageUnixName = "main";
+        WIKIREQUEST.info.pageId = 17781269;
+                        WIKIREQUEST.info.lang = "es";
+        OZONE.lang = "es";
+        var isUAMobile = !!/Android|webOS|iPhone|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent);
+    </script>
+    
+    
+
+
+    
+        <script  type="text/javascript">
+    
+        require.config({
+            baseUrl: URL_STATIC + '/common--javascript',
+            paths: {
+                'jquery.ui': 'jquery-ui.min',
+                'jquery.form': 'jquery.form'
+            }
+        });
+    
+    </script>
+    
+    <meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
+                            <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+                            
+    
+    
+    
+    
+    <meta http-equiv="content-language" content="es"/>
+    <script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--3e3a6f7dbcc9/common--javascript/WIKIDOT.combined.js"></script>
+        
+    
+    <style type="text/css" id="internal-style">
+        
+        /* modules */
+        
+                
+        /* theme */
+                    @import url(http://d3g0gp89917ko0.cloudfront.net/v--3e3a6f7dbcc9/common--theme/base/css/style.css);
+                    @import url(http://lafundacionscp.wikidot.com/component:theme/code/1);
+            </style>
+    
+        
+        
+        
+    <link rel="shortcut icon" href="/local--favicon/favicon.gif"/>
+    <link rel="icon" type="image/gif" href="/local--favicon/favicon.gif"/>
+    
+            <link rel="apple-touch-icon" href="/common--images/apple-touch-icon-57x57.png" />
+        <link rel="apple-touch-icon" sizes="72x72" href="/common--images/apple-touch-icon-72x72.png" />
+        <link rel="apple-touch-icon" sizes="114x114" href="/common--images/apple-touch-icon-114x114.png" />
+        
+            <meta name="msapplication-TileImage" content="/local--wp8icon/wp8icon.png"/>
+                
+            <link rel="alternate" type="application/wiki" title="Edit this page" href="javascript:WIKIDOT.page.listeners.editClick()"/>
+    
+        <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-18234656-1']);
+        _gaq.push(['_setDomainName', 'none']);
+        _gaq.push(['_setAllowLinker', true]);
+        _gaq.push(['_trackPageview']);
+
+        _gaq.push(['old._setAccount', 'UA-68540-5']);
+        _gaq.push(['old._setDomainName', 'none']);
+        _gaq.push(['old._setAllowLinker', true]);
+        _gaq.push(['old._trackPageview']);
+
+                _gaq.push(['userTracker._setAccount', 'UA-168713464-2']);
+        _gaq.push(['userTracker._trackPageview']);
+            </script>
+    
+    <script type="text/javascript">
+        window.google_analytics_uacct = 'UA-18234656-1';
+        window.google_analytics_domain_name = 'none';
+    </script>
+    
+        <link rel="manifest" href="/onesignal/manifest.json" />
+    <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" acync=""></script>
+    <script>
+        var OneSignal = window.OneSignal || [];
+        OneSignal.push(function() {
+          OneSignal.init({
+            appId: null,
+          });
+        });
+    </script>
+        
+<style>
+#page-content { min-height:600px; }
+</style>
+<style>
+@media (min-width: 981px) {
+  .carousel-container iframe {
+    height: 175px !important;
+  }
+}
+</style>
+<style>
+@import url(http://topia.wikidot.com/local--code/cqb%3Acarousel/3);
+</style>
+<style>
+#page-title { display: none; }
+.feature-block {
+height: 230px;
+}
+.feature-block .panel-body {
+height: 160px;
+overflow-y: hidden;
+}
+.feature-block .feature-title {
+font-size: 120%;
+font-weight: bold;
+}
+.feature-block .feature-subtitle {
+font-size: 90%;
+}
+
+.feature-block .feature-title > p,
+.feature-block .feature-subtitle > p {
+margin: 0;
+}
+
+.news-block .panel-body {
+padding: 0;
+}
+.news-block .panel-body .alternate {
+padding: 5px 10px;
+}
+.news-block .news-title {
+font-weight: bold;
+font-size: 110%;
+margin-bottom: 5px;
+color: #633;
+}
+.news-block .news-content {
+margin: 5px 0;
+}
+.news-block .news-title > p,
+.news-block .news-content > p {
+margin: 0;
+}
+
+#u-featured{
+display:none
+}
+
+#u-featured-box:target~#u-featured{
+display:block
+}
+
+div:target~#u-normal{
+display:none
+}
+
+#u-featured-box{
+display:none;
+}
+
+.c_international-container .panel-body {
+    padding: 0;
+}
+.c_international-body {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    *background: rgba(255,255,255,.9) url(http://www.scp-wiki.net/local--files/component:theme/panel-bg-gradient-reverse.png) bottom repeat-x;
+    padding: 5px 0;
+}
+.c_international-box {
+    margin: 5px 4px;
+    text-align: center;
+    min-width: 12em;
+}
+.c_international-box div > p,
+.international-entry div > p {
+    margin: 0;
+}
+.c_international-box .c_international-text {
+    margin: 5px 0;
+    font-size: 99%;
+}
+.international-entry {
+    padding: 10px 10px 5px 10px;
+    border-top: 1px solid #eeeee0;
+}
+.international-entry .international-description {
+    margin: 5px 20px;
+    font-size: 99%;
+}
+.c_international-box .c_international-logo img {
+    height: 90px;
+}
+
+@media (min-width: 768px) and (max-width: 979px) {
+    .c_international-box .c_international-logo img {
+        height: 80px;
+    }
+    .c_international-box {
+        min-width: 10em;
+    }
+}
+@media (min-width: 581px) and (max-width: 767px) {
+    .c_international-box .c_international-logo img {
+        height: 70px;
+    }
+    .c_international-box {
+        min-width: 10em;
+    }
+}
+@media (min-width: 480px) and (max-width: 580px) {
+    .c_international-box .c_international-logo img {
+        height: 60px;
+    }
+    .c_international-box {
+        min-width: 10em;
+    }
+}
+@media (max-width: 479px) {
+    .c_international-box .c_international-logo img {
+        height: 50px;
+    }
+    .c_international-box {
+        min-width: 10em;
+    }
+}
+</style>
+<script src="https://s.nitropay.com/ads-143.js"></script>
+<script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--3e3a6f7dbcc9/common--modules/js/list/ListPagesModule.js"></script>
+</head>
+<body id="html-body">
+<div id="skrollr-body">
+<a name="page-top"></a>
+
+
+
+
+
+<div id="container-wrap-wrap">
+    <div id="container-wrap">
+        <div id="container">
+            <div id="header">
+              <h1><a href="/"><span>La Fundación SCP</span></a></h1>
+                
+                    <h2><span>Rama Hispanohablante</span></h2>
+                
+                
+                <!-- google_ad_section_start(weight=ignore) -->
+                
+                <div id="search-top-box" class="form-search">
+    <form id="search-top-box-form" action="dummy" class="input-append">
+        <input id="search-top-box-input" class="text empty search-query" type="text" size="15" name="query" value="Buscar en este sitio" onfocus="if(YAHOO.util.Dom.hasClass(this, 'empty')){YAHOO.util.Dom.removeClass(this,'empty'); this.value='';}"/><input class="button btn" type="submit" name="search" value="Buscar"/>
+    </form>
+</div>
+                
+                
+                    <div id="top-bar">
+                        
+
+<div class="top-bar" role="navigation">
+<ul>
+<li>SCP [EN]
+<ul>
+<li><a href="/scp-series">Serie I</a> <span class="topbar_arrow">▸</span>
+<ul>
+<li><a href="/scp-series#001">001-099</a></li>
+<li><a href="/scp-series#100">100-199</a></li>
+<li><a href="/scp-series#200">200-299</a></li>
+<li><a href="/scp-series#300">300-399</a></li>
+<li><a href="/scp-series#400">400-499</a></li>
+<li><a href="/scp-series#500">500-599</a></li>
+<li><a href="/scp-series#600">600-699</a></li>
+<li><a href="/scp-series#700">700-799</a></li>
+<li><a href="/scp-series#800">800-899</a></li>
+<li><a href="/scp-series#900">900-999</a></li>
+</ul>
+</li>
+<li><a href="/scp-series-2">Serie II</a> <span class="topbar_arrow">▸</span>
+<ul>
+<li><a href="/scp-series-2#1000">1000-1099</a></li>
+<li><a href="/scp-series-2#1100">1100-1199</a></li>
+<li><a href="/scp-series-2#1200">1200-1299</a></li>
+<li><a href="/scp-series-2#1300">1300-1399</a></li>
+<li><a href="/scp-series-2#1400">1400-1499</a></li>
+<li><a href="/scp-series-2#1500">1500-1599</a></li>
+<li><a href="/scp-series-2#1600">1600-1699</a></li>
+<li><a href="/scp-series-2#1700">1700-1799</a></li>
+<li><a href="/scp-series-2#1800">1800-1899</a></li>
+<li><a href="/scp-series-2#1900">1900-1999</a></li>
+</ul>
+</li>
+<li><a href="/scp-series-3">Serie III</a> <span class="topbar_arrow">▸</span>
+<ul>
+<li><a href="/scp-series-3#2000">2000-2099</a></li>
+<li><a href="/scp-series-3#2100">2100-2199</a></li>
+<li><a href="/scp-series-3#2200">2200-2299</a></li>
+<li><a href="/scp-series-3#2300">2300-2399</a></li>
+<li><a href="/scp-series-3#2400">2400-2499</a></li>
+<li><a href="/scp-series-3#2500">2500-2599</a></li>
+<li><a href="/scp-series-3#2600">2600-2699</a></li>
+<li><a href="/scp-series-3#2700">2700-2799</a></li>
+<li><a href="/scp-series-3#2800">2800-2899</a></li>
+<li><a href="/scp-series-3#2900">2900-2999</a></li>
+</ul>
+</li>
+<li><a href="/scp-series-4">Serie IV</a> <span class="topbar_arrow">▸</span>
+<ul>
+<li><a href="/scp-series-4#3000">3000-3099</a></li>
+<li><a href="/scp-series-4#3100">3100-3199</a></li>
+<li><a href="/scp-series-4#3200">3200-3299</a></li>
+<li><a href="/scp-series-4#3300">3300-3399</a></li>
+<li><a href="/scp-series-4#3400">3400-3499</a></li>
+<li><a href="/scp-series-4#3500">3500-3599</a></li>
+<li><a href="/scp-series-4#3600">3600-3699</a></li>
+<li><a href="/scp-series-4#3700">3700-3799</a></li>
+<li><a href="/scp-series-4#3800">3800-3899</a></li>
+<li><a href="/scp-series-4#3900">3900-3999</a></li>
+</ul>
+</li>
+<li><a href="/scp-series-5">Serie V</a> <span class="topbar_arrow">▸</span>
+<ul>
+<li><a href="/scp-series-5#4000">4000-4099</a></li>
+<li><a href="/scp-series-5#4100">4100-4199</a></li>
+<li><a href="/scp-series-5#4200">4200-4299</a></li>
+<li><a href="/scp-series-5#4300">4300-4399</a></li>
+<li><a href="/scp-series-5#4400">4400-4499</a></li>
+<li><a href="/scp-series-5#4500">4500-4599</a></li>
+<li><a href="/scp-series-5#4600">4600-4699</a></li>
+<li><a href="/scp-series-5#4700">4700-4799</a></li>
+<li><a href="/scp-series-5#4800">4800-4899</a></li>
+<li><a href="/scp-series-5#4900">4900-4999</a></li>
+</ul>
+</li>
+<li><a href="/scp-series-6">Serie VI</a> <span class="topbar_arrow">▸</span>
+<ul>
+<li><a href="/scp-series-6#5000">5000-5099</a></li>
+<li><a href="/scp-series-6#5100">5100-5199</a></li>
+<li><a href="/scp-series-6#5200">5200-5299</a></li>
+<li><a href="/scp-series-6#5300">5300-5399</a></li>
+<li><a href="/scp-series-6#5400">5400-5499</a></li>
+<li><a href="/scp-series-6#5500">5500-5599</a></li>
+<li><a href="/scp-series-6#5600">5600-5699</a></li>
+<li><a href="/scp-series-6#5700">5700-5799</a></li>
+<li><a href="/scp-series-6#5800">5800-5899</a></li>
+<li><a href="/scp-series-6#5900">5900-5999</a></li>
+</ul>
+</li>
+<li><a href="/scps-humoristicos">Serie Humorística</a></li>
+<li><a href="/scps-archivados">Serie Archivada</a></li>
+<li><a href="/scp-ex">Serie Explicada</a></li>
+<li><a href="/scps-vos">Serie Versión-Original</a></li>
+</ul>
+</li>
+<li>SCP [ES]
+<ul>
+<li><a href="/serie-scp-es">Serie I</a></li>
+<li><a href="/serie-scp-es-2">Serie II</a></li>
+<li><a href="/serie-scp-es-3">Serie III</a></li>
+<li><a href="/scps-humoristicos#toc3">Serie Humorística</a></li>
+<li><a href="/scp-ex#ES">Serie Explicada</a></li>
+<li><a href="/scps-vos">Serie Versión-Original</a></li>
+</ul>
+</li>
+<li>SCP [INT]
+<ul>
+<li>Series Internacionales <span class="topbar_arrow">▸</span>
+<ul>
+<li><a href="/serie-scp-int">Serie SCP-INT</a></li>
+<li><a href="/serie-scp-ru">Serie SCP-RU</a></li>
+<li><a href="/serie-scp-ko">Serie SCP-KO</a></li>
+<li><a href="/serie-scp-cn">Serie SCP-CN</a></li>
+<li><a href="/serie-scp-fr">Serie SCP-FR</a></li>
+<li><a href="/serie-scp-pl">Serie SCP-PL</a></li>
+<li><a href="/serie-scp-th">Serie SCP-TH</a></li>
+<li><a href="/serie-scp-jp-i">Serie SCP-JP</a></li>
+<li><a href="/serie-scp-de">Serie SCP-DE</a></li>
+<li><a href="/serie-scp-it">Serie SCP-IT</a></li>
+<li><a href="/serie-scp-pt">Serie SCP-PT</a></li>
+<li><a href="/serie-scp-ua">Serie SCP-UA</a></li>
+<li><a href="/serie-scp-cz">Serie SCP-CZ</a></li>
+</ul>
+</li>
+<li>Ramas Internacionales <span class="topbar_arrow">▸</span>
+<ul>
+<li><a href="http://scp-int.wikidot.com">Archivo Internacional de Traducción</a></li>
+<li><a href="http://www.scp-wiki.net/">The SCP Foundation (EN)</a></li>
+<li><a href="http://scp-ru.wikidot.com/">Rama Rusa (RU)</a></li>
+<li><a href="http://ko.scp-wiki.net/main">SCP 재단 (KO)</a></li>
+<li><a href="http://scp-wiki-cn.wikidot.com">SCP基金会 (CN)</a></li>
+<li><a href="http://fondationscp.wikidot.com">Fondation SCP (FR)</a></li>
+<li><a href="http://scp-wiki.net.pl">SCP Polska Filia (PL)</a></li>
+<li><a href="http://scp-th.wikidot.com">สถาบัน SCP (TH)</a></li>
+<li><a href="http://scp-jp.wikidot.com">SCP財団 (JP)</a></li>
+<li><a href="http://scp-wiki-de.wikidot.com">SCP Deutschland (DE)</a></li>
+<li><a href="http://fondazionescp.wikidot.com">Fondazione SCP (IT)</a></li>
+<li><a href="http://scp-ukrainian.wikidot.com">Rama Ucraniana (UA)</a></li>
+<li><a href="http://scp-pt-br.wikidot.com">Rama Lusófona (PT-BR)</a></li>
+<li><a href="http://scp-cs.wikidot.com/">SCP Nadace (CZ)</a></li>
+<li><a href="http://scp-zh-tr.wikidot.com/">SCP基金會 (ZH-TR)</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Estantería
+<ul>
+<li>[EN] Anglosajona <span class="topbar_arrow">▸</span>
+<ul>
+<li><a href="/relatos-de-la-fundacion">Relatos</a></li>
+<li><a href="/goi-formats">Formatos de GdI</a></li>
+<li><a href="/log-of-anomalous-items">Objetos Anómalos</a></li>
+<li><a href="/log-of-extranormal-events">Eventos Extranormales</a></li>
+<li><a href="/log-of-unexplained-locations">Lugares Inexplicables</a></li>
+</ul>
+</li>
+<li>[ES] Hispana <span class="topbar_arrow">▸</span>
+<ul>
+<li><a href="/relatos-de-la-fundacion-hispanoparlante">Relatos</a></li>
+<li><a href="/formatos-de-gdi">Formatos de GdI</a></li>
+<li><a href="/objetos-anomalos-es-new">Objetos Anómalos</a></li>
+<li><a href="/eventos-extranormales-es">Eventos Extranormales</a></li>
+<li><a href="/lugares-inexplicables-es">Lugares Inexplicables</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Grupos de Interés
+<ul>
+<li>[EN] Anglosajones <span class="topbar_arrow">▸</span>
+<ul>
+<li><a href="/groups-of-interest">Hub</a></li>
+<li><a href="/ijamea-hub">AIJECA</a></li>
+<li><a href="/anderson-robotics-hub">Anderson Robotics</a></li>
+<li><a href="/are-we-cool-yet-hub">Are We Cool Yet?</a></li>
+<li><a href="/arcadia-hub">Arcadia</a></li>
+<li><a href="/herman-fuller-hub">Circo de lo Inquietante de Herman Fuller</a></li>
+<li><a href="/goc-hub-page">Coalición Oculta Global</a></li>
+<li><a href="/oneiroi">Colectivo Oneiroi</a></li>
+<li><a href="/deer-college-hub">Colegio Deer</a></li>
+<li><a href="/sarkicism-hub">Cultos Sárkicos</a></li>
+<li><a href="/gru-p-hub">GRU División-P</a></li>
+<li><a href="/dr-wondertainment-hub">Dr. Wondertainment</a></li>
+<li><a href="/chicago-spirit">Espíritu de Chicago</a></li>
+<li><a href="/manna-charitable-foundation-hub">Fundación de Caridad Manna</a></li>
+<li><a href="/gamers-against-weed-hub">Gamers Against Weed</a></li>
+<li><a href="/second-hytoth-hub">Iglesia del Segundo Hytoth</a></li>
+<li><a href="/three-moons-initiative-hub">Iniciativa de las Tres Lunas</a></li>
+<li><a href="/chaos-insurgency-hub">Insurgencia del Caos</a></li>
+<li><a href="/factory-hub">La Fábrica</a></li>
+<li><a href="/church-of-the-broken-god-hub">Iglesia del Dios Roto</a></li>
+<li><a href="/horizon-initiative-hub">Iniciativa Horizonte</a></li>
+<li><a href="/serpent-s-hand-hub">Mano de la Serpiente</a></li>
+<li><a href="/fifthist-hub">Quintismo</a></li>
+<li><a href="/black-queen-hub">Reina Negra</a></li>
+<li><a href="/prometheus-labs-hub">Laboratorios Prometheus</a></li>
+<li><a href="/marshall-carter-and-dark-hub">Marshall, Carter &amp; Dark</a></li>
+<li><a href="/nobody-hub">&quot;Nadie&quot;</a></li>
+<li><a href="/oria-hub">Oficina para la Reclamación de Artefactos Islámicos</a></li>
+<li><a href="/parawatch-hub">Parawatch</a></li>
+<li><a href="/ambrose-restaurant-hub">Restaurantes Ambrose</a></li>
+<li><a href="/spc-hub">SPC</a></li>
+<li><a href="/wilson-s-wildlife-solutions-hub">Soluciones de Wilson para la Fauna Silvestre</a></li>
+<li><a href="/unusual-incidents-unit-hub">Unidad de Incidentes Inusuales</a></li>
+<li><a href="/alexylva-university-hub">Universidad Alexylva</a></li>
+</ul>
+</li>
+<li>[ES] Hispanos <span class="topbar_arrow">▸</span>
+<ul>
+<li><a href="/grupos-de-interes-hispanoparlantes">Hub</a></li>
+<li><a href="/informe-sobre-la-sociedad-antares">Sociedad Antares para la Renovación del Espíritu Humano</a></li>
+<li><a href="/informe-sobre-el-culto-dios-verde">Culto al Gran Dios Verde</a></li>
+<li><a href="/hub-comisaria">Comisaría Especial de Seguridad</a></li>
+<li><a href="/mac-hub">Ministerio de Anomalías de Cuba</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Cánones
+<ul>
+<li>[EN] Anglosajones <span class="topbar_arrow">▸</span>
+<ul>
+<li><a href="/canon-hub">Hub</a></li>
+<li><a href="/ad-astra-per-aspera-hub">Ad Astra Per Aspera</a></li>
+<li><a href="/aces-and-eights">Ases y Ochos</a></li>
+<li><a href="/apotheosis-hub">Apoteosis</a></li>
+<li><a href="/bellerverse">Bellerverse</a></li>
+<li><a href="/site-17-hub">Catálogo Deepwell del Sitio-17</a></li>
+<li><a href="/codename-green-king-hub">Código: Rey Verde</a></li>
+<li><a href="/aiad-homescreen">DAIA</a></li>
+<li><a href="/sotmhub">Derecho Hasta el Amanecer</a></li>
+<li><a href="/doctors-of-the-church-hub">Doctores de la Iglesia</a></li>
+<li><a href="/the-alchemy-department-hub">El Departamento de Alquimia de la Fundación</a></li>
+<li><a href="/the-gulf">El Golfo</a></li>
+<li><a href="/the-man-who-wasnt-there-hub">El Hombre Que No Estaba Allí</a></li>
+<li><a href="/only-game-in-town-hub">La Única Alternativa</a></li>
+<li><a href="/the-trashfire">El Vertedero</a></li>
+<li><a href="/old-man-in-the-sea-hub">El Viejo en el Mar</a></li>
+<li><a href="/on-mount-golgotha-hub">En el Monte Gólgota</a></li>
+<li><a href="/memoria-adytum">En Memoria, Adytum</a></li>
+<li><a href="/competitive-eschatology-hub">Escatología Competitiva</a></li>
+<li><a href="/those-twisted-pines-hub">Esos Pinos Retorcidos</a></li>
+<li><a href="/dread-circuses-hub">Espantos &amp; Circos</a></li>
+<li><a href="/etdp-hub-page">Et Tam Deum Petivi</a></li>
+<li><a href="/goc-hub-page">Expedientes de la Coalición Oculta Global</a></li>
+<li><a href="/end-of-death-hub">Fin de la Muerte</a></li>
+<li><a href="/war-on-all-fronts-hub">Guerra en Todos los Frentes</a></li>
+<li><a href="/unfounded-hub">Infundados</a></li>
+<li><a href="/antarctic-exchange-hub">Intercambio Antártico</a></li>
+<li><a href="/cool-war-2-hub">La Guerra Cool 2: Ruiz De Tu Tumba</a></li>
+<li><a href="/the-coldest-war-hub">La Guerra Mas Fría</a></li>
+<li><a href="/lolfoundation-hub-page">lolFundación</a></li>
+<li><a href="/broken-masquerade-hub">Mascarada Rota</a></li>
+<li><a href="/siabhub">Nave En Una Botella</a></li>
+<li><a href="/rat-s-nest-hub">Nido de la Rata</a></li>
+<li><a href="/project-heimdall">Proyecto Heimdall</a></li>
+<li><a href="/wonder-world">Qué Maravilloso Mundo</a></li>
+<li><a href="/resurrection">Resurrección</a></li>
+<li><a href="/stealingsolidarityhub">Robando la Solidaridad</a></li>
+<li><a href="/the-s-c-plastics-hub">S &amp; C Plásticos</a></li>
+<li><a href="/third-law-hub">Tercera Ley</a></li>
+</ul>
+</li>
+<li>[ES] Hispanos <span class="topbar_arrow">▸</span>
+<ul>
+<li><a href="/canon-hub-es">Hub</a></li>
+<li><a href="/i-57-hub">Instalación-57</a></li>
+<li><a href="/oem-hub">Observando Estrellas Muertas</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>Guías
+<ul>
+<li><a href="/guide-hub">Hub</a></li>
+<li><a href="/guide-for-newbies">Para los Nuevos</a></li>
+<li><a href="/chat-guide">Del Chat</a></li>
+<li><a href="/licensing-guide">De Licencias</a></li>
+<li>Para Escritores <span class="topbar_arrow">▸</span>
+<ul>
+<li><a href="/contribute">Cómo Contribuir</a></li>
+<li><a href="/how-to-write-an-scp">Cómo Escribir un SCP</a></li>
+<li><a href="/technical-words">Palabras Técnicas</a></li>
+<li><a href="/image-use-policy">Uso de Imágenes</a></li>
+<li><a href="/ridiculeando">Ideas Humorísticas, Algo Serio</a></li>
+<li><a href="/como-publicar-un-scp">Cómo Publicar un SCP</a></li>
+<li><a href="/tag-guide">Guía de Etiquetas</a></li>
+<li><a href="/deletions-guide">Guía de Eliminaciones</a></li>
+<li><a href="/rewrite-guide">Guía de Reescrituras</a></li>
+</ul>
+</li>
+<li>Para Traductores <span class="topbar_arrow">▸</span>
+<ul>
+<li><a href="/contribute">Cómo Contribuir</a></li>
+<li><a href="/guia-de-traducciones">Guía de Traducciones</a></li>
+<li><a href="/traducciones-reservadas">Traducciones Reservadas</a></li>
+<li><a href="/diccionario-oficial">Diccionario Oficial</a></li>
+<li><a href="/tag-guide">Guía de Etiquetas</a></li>
+<li><a href="/deletions-guide">Guía de Eliminaciones</a></li>
+</ul>
+</li>
+<li>Para Críticos <span class="topbar_arrow">▸</span>
+<ul>
+<li><a href="/guia-equipo-critica">Guía del Equipo de Crítica</a></li>
+<li><a href="/zyn-s-crit-tips-i">Consejos de Zyn I</a></li>
+<li><a href="/zyn-s-crit-tips-ii">Consejos de Zyn II</a></li>
+<li><a href="/zyn-s-crit-tips-iii">Consejos de Zyn III</a></li>
+<li><a href="/things-what-do-a-thing-an-essay-on-things">Cosas que Hacen una Cosa</a></li>
+<li><a href="/essays-by-a-hack-terror">Terror</a></li>
+</ul>
+</li>
+<li>Sobre el Universo <span class="topbar_arrow">▸</span>
+<ul>
+<li><a href="/the-big-goi-essay">Guía de Campo de los GdIs</a></li>
+<li><a href="/esoteric-classes-complete-list">Lista Completa de Clases Esotéricas</a></li>
+<li><a href="/understanding-memetics">Entendiendo la Memética</a></li>
+<li><a href="/the-foundation-and-evil">La Fundación y el Mal</a></li>
+<li><a href="/and-this-one-explains-humes">¿Qué Demonios es un Hume?</a></li>
+<li><a href="/goc-supplemental-thaumatology">Taumatología Aplicada</a></li>
+</ul>
+</li>
+<li><a href="/faq">FAQ</a></li>
+</ul>
+</li>
+<li>Info
+<ul>
+<li><a href="/about-the-scp-foundation">Sobre La Fundación</a></li>
+<li><a href="/object-classes">Clases de Objetos</a></li>
+<li><a href="/security-clearance-levels">Niveles de Seguridad</a></li>
+<li><a href="/secure-facilities-locations">Sitios e Instalaciones Seguras</a></li>
+<li><a href="/task-forces">Destacamentos Móviles</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<div class="mobile-top-bar">
+<div class="open-menu">
+<p><a href="#side-bar">≡</a></p>
+</div>
+<ul>
+<li>SCP [EN]
+<ul>
+<li><a href="/scp-series">Serie SCP I</a></li>
+<li><a href="/scp-series-2">Serie SCP II</a></li>
+<li><a href="/scp-series-3">Serie SCP III</a></li>
+<li><a href="/scp-series-4">Serie SCP IV</a></li>
+<li><a href="/scp-series-5">Serie SCP V</a></li>
+<li><a href="/scp-series-6">Serie SCP VI</a></li>
+<li><a href="/scps-humoristicos">Serie Humorística</a></li>
+<li><a href="/scps-archivados">Serie Archivada</a></li>
+<li><a href="/scps-vos">Serie Versión-Original</a></li>
+<li><a href="/registro-de-objetos-anomalos">Objetos Anómalos</a></li>
+<li><a href="/registro-de-eventos-extranormales">Eventos Extranormales</a></li>
+<li><a href="/registro-de-lugares-inexplicables">Lugares Inexplicables</a></li>
+<li><a href="/relatos-de-la-fundacion">Relatos</a></li>
+<li><a href="/goi-formats">Formatos de GdI</a></li>
+<li><a href="/canon-hub">Cánones</a></li>
+</ul>
+</li>
+<li>SCP [ES]
+<ul>
+<li><a href="/serie-scp-es#001">Serie SCP I</a></li>
+<li><a href="/serie-scp-es-2">Serie SCP II</a></li>
+<li><a href="/serie-scp-es-3">Serie SCP III</a></li>
+<li><a href="/scps-humoristicos#toc3">Serie Humorística</a></li>
+<li><a href="/scp-ex#ES">Serie Explicada</a></li>
+<li><a href="/scps-vos">Serie Versión-Original</a></li>
+<li><a href="/objetos-anomalos-es-new">Objetos Anómalos</a></li>
+<li><a href="/eventos-extranormales-es">Eventos Extranormales</a></li>
+<li><a href="/lugares-inexplicables-es">Lugares Inexplicables</a></li>
+<li><a href="/relatos-de-la-fundacion-hispanoparlante">Relatos</a></li>
+<li><a href="/formatos-de-gdi">Formatos de GdI</a></li>
+<li><a href="/canon-hub-es">Cánones</a></li>
+</ul>
+</li>
+<li>Información
+<ul>
+<li><a href="/about-the-scp-foundation">Sobre La Fundación</a></li>
+<li><a href="/groups-of-interest">Grupos de Interés</a></li>
+<li><a href="/object-classes">Clases de Objetos</a></li>
+<li><a href="/security-clearance-levels">Niveles de Seguridad</a></li>
+<li><a href="/secure-facilities-locations">Sitios e Instalaciones Seguras</a></li>
+<li><a href="/task-forces">Destacamentos Móviles</a></li>
+</ul>
+</li>
+<li>Guías
+<ul>
+<li><a href="/guide-hub">Centro de Guías</a></li>
+<li><a href="http://lafundacionscp.wikidot.com/meet-the-staff">Conoce al Staff</a></li>
+<li><a href="/guide-for-newbies">Guía para los Nuevos</a></li>
+<li><a href="/how-to-write-an-scp">Cómo Escribir un SCP</a></li>
+<li><a href="/image-use-policy">Uso de Imágenes</a></li>
+<li><a href="/guia-de-traducciones">Guía de Traducciones</a></li>
+<li><a href="/chat-guide">Guía del Chat</a></li>
+<li><a href="/faq">FAQ</a></li>
+<li><a href="/site-rules">Normas de la Wiki</a></li>
+<li><a href="/diccionario-oficial">Diccionario Oficial</a></li>
+<li><a href="/deletions-guide">Guía de Eliminaciones</a></li>
+<li><a href="/criticism-policy">Política de Críticas</a></li>
+<li><a href="/tag-guide">Guía de Etiquetas</a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+                    </div>
+                
+                <div id="login-status"><a href="javascript:;" onclick="WIKIDOT.page.listeners.createAccount(event)" class="login-status-create-account btn">Crea la cuenta</a> <span>o</span> <a href="javascript:;" onclick="WIKIDOT.page.listeners.loginClick(event)" class="login-status-sign-in btn btn-primary">Conectarse</a> </div>
+                <div id="header-extra-div-1"><span></span></div><div id="header-extra-div-2"><span></span></div><div id="header-extra-div-3"><span></span></div>
+            </div>
+            
+            <div id="content-wrap">
+                
+                    <div id="side-bar">
+                        
+
+
+                        
+
+<div class="side-block" style="background-color: #e5e5ff;">
+<div class="menu-item">
+<div style="text-align: center;"><a href="https://www.facebook.com/SCPESPaginaOficial/"><img src="http://lafundacionscp.wdfiles.com/local--files/nav:side/FB-icon.png" style="width:30px; height:30px;" alt="Facebook Oficial de la Rama Hispana" class="image" /></a> <a href="https://twitter.com/SCP_ES_OFICIAL"><img src="http://lafundacionscp.wdfiles.com/local--files/nav:side/Twitter-icon.png" style="width:30px; height:30px;" alt="Twitter Oficial de la Rama Hispana" class="image" /></a> <a href="/chat-guide"><img src="http://lafundacionscp.wdfiles.com/local--files/nav:side/discord_icon.png" style="width:30px; height:30px;" alt="Discord Oficial de la Rama Hispana" class="image" /></a> <a href="https://www.instagram.com/scp.es/"><img src="http://lafundacionscp.wdfiles.com/local--files/nav:side/insta.png" style="width:30px; height:30px;" alt="Instagram Oficial de la Rama Hispana" class="image" /></a></div>
+</div>
+</div>
+<div style="clear:both; height: 0px; font-size: 1px"></div>
+<div class="side-block" style="background-color: #a7dba2;">
+<div class="collapsible-block">
+<div class="collapsible-block-folded"><a class="collapsible-block-link" href="javascript:;">Para&nbsp;los&nbsp;nuevos</a></div>
+<div class="collapsible-block-unfolded" style="display:none">
+<div class="collapsible-block-unfolded-link"><a class="collapsible-block-link" href="javascript:;">Primeros&nbsp;pasos</a></div>
+<div class="collapsible-block-content">
+<div class="menu-item"><img src="http://lafundacionscp.wdfiles.com/local--files/nav:side/help.png" alt="help.png" class="image" /><a href="/guide-for-newbies">Leer primero</a></div>
+<div class="menu-item"><img src="http://lafundacionscp.wdfiles.com/local--files/nav:side/help.png" alt="help.png" class="image" /><a href="/como-publicar-un-scp">Cómo Publicar un SCP</a></div>
+<div class="menu-item"><img src="http://lafundacionscp.wdfiles.com/local--files/nav:side/help.png" alt="help.png" class="image" /><a href="/faq">FAQ</a></div>
+<div class="menu-item"><img src="http://lafundacionscp.wdfiles.com/local--files/nav:side/help.png" alt="help.png" class="image" /><a href="/site-rules">Reglas del sitio</a></div>
+<div class="menu-item"><img src="http://lafundacionscp.wdfiles.com/local--files/nav:side/help.png" alt="help.png" class="image" /><a href="/licensing-guide">Guía de licencias</a></div>
+<div class="menu-item"><img src="http://lafundacionscp.wdfiles.com/local--files/nav:side/main.png" alt="main.png" class="image" /><a href="/system:join">¡Hazte miembro!</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="side-block" style="background-color: #e7e5e8;">
+<div class="collapsible-block">
+<div class="collapsible-block-folded"><a class="collapsible-block-link" href="javascript:;">Guías&nbsp;y&nbsp;políticas</a></div>
+<div class="collapsible-block-unfolded" style="display:none">
+<div class="collapsible-block-unfolded-link"><a class="collapsible-block-link" href="javascript:;">Guías&nbsp;y&nbsp;políticas</a></div>
+<div class="collapsible-block-content">
+<div class="menu-item"><img src="http://lafundacionscp.wdfiles.com/local--files/nav:side/help.png" alt="help.png" class="image" /><a href="/image-use-policy">Uso de Imágenes</a></div>
+<div class="menu-item"><img src="http://lafundacionscp.wdfiles.com/local--files/nav:side/help.png" alt="help.png" class="image" /><a href="/licensing-guide">Guía de Licencias</a></div>
+<div class="menu-item"><img src="http://lafundacionscp.wdfiles.com/local--files/nav:side/help.png" alt="help.png" class="image" /><a href="/criticism-policy">Política de Críticas</a></div>
+<div class="menu-item"><img src="http://lafundacionscp.wdfiles.com/local--files/nav:side/help.png" alt="help.png" class="image" /><a href="/rewrite-guide">Guía de Reescritura</a></div>
+<div class="menu-item"><img src="http://lafundacionscp.wdfiles.com/local--files/nav:side/help.png" alt="help.png" class="image" /><a href="/tag-guide">Guía de Etiquetas</a></div>
+<div class="menu-item"><img src="http://lafundacionscp.wdfiles.com/local--files/nav:side/help.png" alt="help.png" class="image" /><a href="/guia-de-traducciones">Guía de Traducciones</a></div>
+</div>
+</div>
+</div>
+</div>
+<div class="side-block" style="background-color: #fff0f0;">
+<div class="menu-item"><img src="http://lafundacionscp.wdfiles.com/local--files/nav:side/default.png" alt="default.png" class="image" /><a href="http://borradores-scp-es-2.wikidot.com">Borradores SCP-ES</a></div>
+</div>
+<div class="side-block">
+<div class="menu-item"><img src="http://lafundacionscp.wdfiles.com/local--files/nav:side/home.png" alt="home.png" class="image" /><a href="/">Inicio</a><br />
+<img src="http://lafundacionscp.wdfiles.com/local--files/nav:side/logros.png" alt="logros.png" class="image" /><a href="http://lafundacionscp.wikidot.com/mis-logros">Logros</a></div>
+<div class="heading">
+<p>Series SCP-ES</p>
+</div>
+<div class="menu-item"><img src="http://scp-wiki.wdfiles.com/local--files/nav%3Aside/series.png" alt="series.png" class="image" /> <a href="/serie-scp-es">I</a> | <a href="/serie-scp-es-2">II</a> | <a href="/serie-scp-es-3">III</a></div>
+<div class="heading">
+<p>Series SCP</p>
+</div>
+<div class="menu-item"><img src="http://scp-wiki.wdfiles.com/local--files/nav%3Aside/series.png" alt="series.png" class="image" /> <a href="/scp-series">I</a> | <a href="/scp-series-2">II</a> | <a href="/scp-series-3">III</a> | <a href="/scp-series-4">IV</a> | <a href="/scp-series-5">V</a> | <a href="/scp-series-6">VI</a></div>
+<div class="heading">
+<p>Biblioteca SCP</p>
+</div>
+<div class="menu-item"><img src="http://lafundacionscp.wdfiles.com/local--files/nav:side/series.png" alt="series.png" class="image" /><a href="/int-hub">SCP Internacional</a></div>
+<div class="menu-item"><img src="http://lafundacionscp.wdfiles.com/local--files/nav:side/series.png" alt="series.png" class="image" /><a href="/relatos-de-la-fundacion">Relatos</a> | <a href="/relatos-de-la-fundacion-hispanoparlante">Originales</a></div>
+<div class="menu-item"><img src="http://lafundacionscp.wdfiles.com/local--files/nav:side/series.png" alt="series.png" class="image" /><a href="/goi-formats">Formatos</a> | <a href="/formatos-de-gdi">Originales</a></div>
+<div class="menu-item"><img src="http://lafundacionscp.wdfiles.com/local--files/nav:side/series.png" alt="series.png" class="image" /><a href="/canon-hub">Hub de Cánones</a></div>
+<div class="menu-item"><img src="http://lafundacionscp.wdfiles.com/local--files/nav:side/series.png" alt="series.png" class="image" /><a href="/arte-es-hub">Hub de Arte-ES</a></div>
+<div class="heading">
+<p>Sitio</p>
+</div>
+<div class="menu-item"><img src="http://lafundacionscp.wdfiles.com/local--files/nav:side/default.png" alt="default.png" class="image" /><a href="/paginas-mejor-puntuadas">Páginas Más Puntuadas</a></div>
+<div class="menu-item"><img src="http://lafundacionscp.wdfiles.com/local--files/nav:side/default.png" alt="default.png" class="image" /><a href="/paginas-peor-puntuadas">Páginas Peor Puntuadas</a></div>
+<div class="menu-item"><img src="http://lafundacionscp.wdfiles.com/local--files/nav:side/default.png" alt="default.png" class="image" /><a href="/infravalorados-e-infravotados">Páginas Infrapuntuadas</a></div>
+<div class="menu-item sub-item"><img src="http://lafundacionscp.wdfiles.com/local--files/nav:side/default.png" alt="default.png" class="image" /><a href="/recientemente-creados">Creados Recientemente</a></div>
+<div class="menu-item"><img src="http://lafundacionscp.wdfiles.com/local--files/nav:side/main.png" alt="main.png" class="image" /><a href="/relato-aleatorio">Relato</a> | <a href="/scp-aleatorio">SCP Aleatorio</a></div>
+<div class="menu-item"><img src="http://lafundacionscp.wdfiles.com/local--files/nav:side/main.png" alt="main.png" class="image" /><a href="/system:recent-changes">Cambios</a> | <a href="/recientemente-editados">Ediciones</a></div>
+<div class="menu-item sub-item"><img src="http://lafundacionscp.wdfiles.com/local--files/nav:side/help.png" alt="help.png" class="image" /><a href="/guide-hub">Guías</a> | <a href="/centro-de-guias-es">Originales</a></div>
+<div class="menu-item sub-item"><img src="http://lafundacionscp.wdfiles.com/local--files/nav:side/default.png" alt="default.png" class="image" /><a href="/paginas-revision">Páginas por Revisar</a></div>
+<div class="menu-item sub-item"><img src="http://lafundacionscp.wdfiles.com/local--files/nav:side/default.png" alt="default.png" class="image" /><a href="/contribute">Cómo Contribuir</a></div>
+<div class="heading">
+<p>Comunidad</p>
+</div>
+<div class="menu-item"><img src="http://lafundacionscp.wdfiles.com/local--files/nav:side/forum.png" alt="forum.png" class="image" /><a href="/forum:start">Foro</a> | <a href="/forum:posts-recientes">Posts Recientes</a></div>
+<div class="menu-item"><img src="http://lafundacionscp.wdfiles.com/local--files/nav:side/forum.png" alt="forum.png" class="image" /><a href="/chat-guide">Guía del Chat</a></div>
+<div class="menu-item"><img src="http://lafundacionscp.wdfiles.com/local--files/nav:side/help.png" alt="help.png" class="image" /><a href="/traducciones-reservadas">Reservar Traducciones</a></div>
+<div class="menu-item"><img src="http://lafundacionscp.wdfiles.com/local--files/nav:side/help.png" alt="help.png" class="image" /><a href="/attribution-metadata">Metadatos de Atribución</a></div>
+<div class="menu-item sub-item"><img src="http://lafundacionscp.wdfiles.com/local--files/nav:side/default.png" alt="default.png" class="image" /><a href="/fichas-de-los-miembros">Fichas de los Miembros</a></div>
+</div>
+<div style="clear:both; height: 0px; font-size: 1px"></div>
+<div class="side-block" style="background-color: #f0f0f0;">
+<div style="text-align: center;"><a href="http://creativecommons.org/licenses/by-sa/3.0/deed.es"><img src="http://scp-wiki-cn.wikidot.com/local--files/nav:side/cc-by-sa.svg" style=" margin-bottom: 10px;" alt="cc-by-sa.svg" class="image" /></a><br />
+<span style="font-size:80%;"><a href="/credits">Créditos</a> | <a href="/licensing-guide">Licencia</a> | <a href="/contact-staff">Contacto</a></span></div>
+</div>
+<div class="side-block" style="background-color: #fff0f0;">
+<div class="collapsible-block">
+<div class="collapsible-block-folded"><a class="collapsible-block-link" href="javascript:;">Recursos&nbsp;de&nbsp;Usuarios</a></div>
+<div class="collapsible-block-unfolded" style="display:none">
+<div class="collapsible-block-unfolded-link"><a class="collapsible-block-link" href="javascript:;">Recursos&nbsp;de&nbsp;Usuarios</a></div>
+<div class="collapsible-block-content">
+<div class="menu-item"><img src="http://lafundacionscp.wdfiles.com/local--files/nav:side/default.png" alt="default.png" class="image" /><a href="/system:list-all-pages">Todas las Páginas</a></div>
+<div class="menu-item"><img src="http://lafundacionscp.wdfiles.com/local--files/nav:side/main.png" alt="main.png" class="image" /><a href="http://cuarteldelo5.wikidot.com/">Sitio del Staff</a></div>
+<div class="menu-item"><img src="http://lafundacionscp.wdfiles.com/local--files/nav:side/default.png" alt="default.png" class="image" /><a href="/deletions-guide">Guía de Eliminaciones</a></div>
+<div class="menu-item"><img src="http://lafundacionscp.wdfiles.com/local--files/nav:side/default.png" alt="default.png" class="image" /><a href="/wiki-syntax">Sintaxis WikiDot</a></div>
+</div>
+</div>
+</div>
+</div>
+<div style="clear:both; height: 0px; font-size: 1px"></div>
+<a class="close-menu" href="#"><br />
+<img src="http://scp-wiki.wdfiles.com/local--files/nav%3Aside/black.png" style="z-index:-1; opacity: 0.3;" alt="black.png" class="image" /><br /></a>
+<div class="scpnet-interwiki-wrapper"><div class="list-pages-box">    <div class="list-pages-item">
+
+
+<p><iframe src="http://interwiki.scpdb.org/?wiki=lafundacionscp&amp;lang=es&amp;page=_default:main" align="" frameborder="" height="" scrolling="" width="" class="scpnet-interwiki-frame" style=""></iframe></p>
+</div>
+    
+    
+    
+    </div></div>
+
+                        
+
+
+                    </div>
+                
+                
+                <!-- google_ad_section_end -->
+                
+                <div id="main-content">
+                    <div id="action-area-top"></div>
+                    
+                    
+
+                    
+
+                    
+
+
+
+                    <div id="page-content">
+                        
+
+
+
+
+<div style="text-align: center;"><img src="http://scp-wiki.wdfiles.com/local--files/main/250_logo.png" height="0" width="0" alt="250_logo.png" class="image" /></div>
+<div style="text-align: center; color: #600;">
+<div class="unmargined">
+<p>AVISO: LA BASE DE DATOS DE LA FUNDACIÓN ES</p>
+</div>
+<div class="unmargined" style="font-size: 400%; font-weight: bold; margin: 2px 0 5px;">
+<p>CLASIFICADA</p>
+</div>
+<div class="unmargined">
+<p>ESTÁ ESTRICTAMENTE PROHIBIDO EL ACCESO DE PERSONAL NO AUTORIZADO<br />
+LOS PERPETRADORES SERÁN IDENTIFICADOS, LOCALIZADOS Y DETENIDOS</p>
+</div>
+</div>
+<div class="content-panel centered standalone"></div>
+<div class="content-panel centered standalone" style="background:#f1f1f1">
+<p><span style="font-size: 200%; line-height: 100%;"><br />
+¡Bienvenidos a la Rama Hispanohablante de<br />
+La Fundación SCP!<br /></span></p>
+<hr />
+<div class="collapsible-block">
+<div class="collapsible-block-folded"><a class="collapsible-block-link" href="javascript:;">▼&nbsp;¿Eres&nbsp;nuevo?&nbsp;¡Haz&nbsp;click&nbsp;aquí!&nbsp;▼</a></div>
+<div class="collapsible-block-unfolded" style="display:none">
+<div class="collapsible-block-unfolded-link"><a class="collapsible-block-link" href="javascript:;">▲&nbsp;Más&nbsp;guías&nbsp;en&nbsp;el&nbsp;recuadro&nbsp;de&nbsp;'Para&nbsp;los&nbsp;nuevos'&nbsp;▲</a></div>
+<div class="collapsible-block-content">
+<h3 id="toc0"><span>Antes de comenzar una pequeña aclaratoria:</span></h3>
+<p><span style="text-decoration: underline;"><em><strong>LA FUNDACIÓN SCP NO ES REAL, ES UNA COMUNIDAD DE ESCRITURA</strong></em></span></p>
+<p>La mencionada existencia de la Fundación en realidad se refiere a este sitio web.</p>
+<h3 id="toc1"><span>Breve Introducción al Universo SCP</span></h3>
+<p>La Fundación SCP existe y opera de manera clandestina y secreta conteniendo<br />
+anomalías para asegurar la normalidad.<br />
+<strong>「Seguridad」</strong> - Para evitar que las anomalías caigan en malas manos<br />
+<strong>「Contención」</strong> - Para que los efectos de las anomalías no crezcan en el mundo<br />
+<strong>「Protección」</strong> - A la humanidad de las anomalías, y a las anomalías de la humanidad</p>
+<h3 id="toc2"><span>Cómo Unirse</span></h3>
+<p>Encontrarás todas las instrucciones y requerimientos que necesitas para volverte<br />
+parte de nuestra Wiki en estos enlaces:</p>
+<p><a href="http://lafundacionscp.wikidot.com/guide-for-newbies">Guía para los Nuevos</a><br />
+<a href="http://lafundacionscp.wikidot.com/system:join">Petición de Membresía</a></p>
+<p>Sabremos si no las lees. ¡Buena suerte!</p>
+<h3 id="toc3"><span>Redes Sociales</span></h3>
+<p><strong>Discord:</strong> <a href="/chat-guide">Sitio-34</a><br />
+<strong>Facebook:</strong> <a href="https://www.facebook.com/SCPESPaginaOficial">SCPESPaginaOficial</a><br />
+<strong>Instagram:</strong> <a href="https://www.instagram.com/scp.es/">scp.es</a><br />
+<strong>Twitter:</strong> <a href="https://twitter.com/SCP_ES_OFICIAL">@SCP_ES_OFICIAL</a></p>
+<blockquote>
+<p><strong>ADVERTENCIA</strong></p>
+<p>Algunos artículos en la Wiki incluyen temas que pueden ser sensibles para algunas personas. Se recomienda la discreción del espectador.</p>
+</blockquote>
+</div>
+</div>
+</div>
+<br />
+<span style="white-space: pre-wrap;">&#32;</span></div>
+<div class="content-panel centered standalone">
+<div style="text-align: center;">
+<h1 id="toc4"><span>¡Shadow-MASK gana el Crimen Con 2021!</span></h1>
+</div>
+<script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--3e3a6f7dbcc9/common--javascript/yahooui/tabview-min.js">
+</script>
+<div id="wiki-tabview-a7d0cce558d39f45091899fa12d73a2a" class="yui-navset">
+<ul class="yui-nav">
+<li class="selected"><a href="javascript:;"><em>Entradas</em></a></li>
+<li><a href="javascript:;"><em>Dibujos</em></a></li>
+</ul>
+<div class="yui-content">
+<div id="wiki-tab-0-0">
+<table class="wiki-content-table">
+<tr>
+<th>Lugar</th>
+<th>Participante</th>
+<th>Entrada</th>
+</tr>
+<tr>
+<td>1</td>
+<td><span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/shadow-mask" onclick="WIKIDOT.page.listeners.userInfo(5279760); return false;"><img class="small" src="http://www.wikidot.com/avatar.php?userid=5279760&amp;amp;size=small&amp;amp;timestamp=1618160876" alt="Shadow-MASK" style="background-image:url(http://www.wikidot.com/userkarma.php?u=5279760)" /></a><a href="http://www.wikidot.com/user:info/shadow-mask" onclick="WIKIDOT.page.listeners.userInfo(5279760); return false;">Shadow-MASK</a></span></td>
+<td><a href="/scp-es-252">SCP-ES-252 - Tercera Parca: la Vida de la Muerte</a></td>
+</tr>
+<tr>
+<td>2</td>
+<td><span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/luis-gm" onclick="WIKIDOT.page.listeners.userInfo(5318429); return false;"><img class="small" src="http://www.wikidot.com/avatar.php?userid=5318429&amp;amp;size=small&amp;amp;timestamp=1618160876" alt="Luis Gm" style="background-image:url(http://www.wikidot.com/userkarma.php?u=5318429)" /></a><a href="http://www.wikidot.com/user:info/luis-gm" onclick="WIKIDOT.page.listeners.userInfo(5318429); return false;">Luis Gm</a></span></td>
+<td><a href="/scp-es-230">SCP-ES-230 - Protocolo Águila</a></td>
+</tr>
+<tr>
+<td>3</td>
+<td><span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/uncle-nicolini" onclick="WIKIDOT.page.listeners.userInfo(3487700); return false;"><img class="small" src="http://www.wikidot.com/avatar.php?userid=3487700&amp;amp;size=small&amp;amp;timestamp=1618160876" alt="Uncle Nicolini" style="background-image:url(http://www.wikidot.com/userkarma.php?u=3487700)" /></a><a href="http://www.wikidot.com/user:info/uncle-nicolini" onclick="WIKIDOT.page.listeners.userInfo(3487700); return false;">Uncle Nicolini</a></span></td>
+<td><a href="/peligro-hipopotamos-de-medellin">Peligro: ¡Hipopótamos De Medellin!</a></td>
+</tr>
+<tr>
+<td>4</td>
+<td><span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/eiren-percibal-l" onclick="WIKIDOT.page.listeners.userInfo(7258946); return false;"><img class="small" src="http://www.wikidot.com/avatar.php?userid=7258946&amp;amp;size=small&amp;amp;timestamp=1618160876" alt="Eiren Percibal L" style="background-image:url(http://www.wikidot.com/userkarma.php?u=7258946)" /></a><a href="http://www.wikidot.com/user:info/eiren-percibal-l" onclick="WIKIDOT.page.listeners.userInfo(7258946); return false;">Eiren Percibal L</a></span></td>
+<td><a href="/muerteirrelevante">Cuando la Muerte ya No Sorprende</a></td>
+</tr>
+<tr>
+<td>4</td>
+<td><span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/siletek" onclick="WIKIDOT.page.listeners.userInfo(3198874); return false;"><img class="small" src="http://www.wikidot.com/avatar.php?userid=3198874&amp;amp;size=small&amp;amp;timestamp=1618160876" alt="Siletek" style="background-image:url(http://www.wikidot.com/userkarma.php?u=3198874)" /></a><a href="http://www.wikidot.com/user:info/siletek" onclick="WIKIDOT.page.listeners.userInfo(3198874); return false;">Siletek</a></span></td>
+<td><a href="/scp-es-276">SCP-ES-276 - No están ni vivos ni muertos; están desaparecidos.</a></td>
+</tr>
+<tr>
+<td>5</td>
+<td><span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/lechuganinja" onclick="WIKIDOT.page.listeners.userInfo(6887957); return false;"><img class="small" src="http://www.wikidot.com/avatar.php?userid=6887957&amp;amp;size=small&amp;amp;timestamp=1618160876" alt="LechugaNinja" style="background-image:url(http://www.wikidot.com/userkarma.php?u=6887957)" /></a><a href="http://www.wikidot.com/user:info/lechuganinja" onclick="WIKIDOT.page.listeners.userInfo(6887957); return false;">LechugaNinja</a></span></td>
+<td><a href="/scp-es-295">SCP-ES-295 - Con buenas intenciones</a></td>
+</tr>
+<tr>
+<td>6</td>
+<td><span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/ethanhanson" onclick="WIKIDOT.page.listeners.userInfo(4465845); return false;"><img class="small" src="http://www.wikidot.com/avatar.php?userid=4465845&amp;amp;size=small&amp;amp;timestamp=1618160876" alt="EthanHanson" style="background-image:url(http://www.wikidot.com/userkarma.php?u=4465845)" /></a><a href="http://www.wikidot.com/user:info/ethanhanson" onclick="WIKIDOT.page.listeners.userInfo(4465845); return false;">EthanHanson</a></span></td>
+<td><a href="/un-asesinato-naranja">Emily Miranda en... &quot;UN ASESINATO NARANJA&quot;</a></td>
+</tr>
+<tr>
+<td>7</td>
+<td><span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/watcoon" onclick="WIKIDOT.page.listeners.userInfo(5031022); return false;"><img class="small" src="http://www.wikidot.com/avatar.php?userid=5031022&amp;amp;size=small&amp;amp;timestamp=1618160876" alt="Watcoon" style="background-image:url(http://www.wikidot.com/userkarma.php?u=5031022)" /></a><a href="http://www.wikidot.com/user:info/watcoon" onclick="WIKIDOT.page.listeners.userInfo(5031022); return false;">Watcoon</a></span></td>
+<td><a href="/scp-es-211">SCP-ES-211 - 91.1FM Radio Lupin, Transmitiendo a Detroit.</a></td>
+</tr>
+</table>
+</div>
+<div id="wiki-tab-0-1" style="display:none">
+<div class="image-container aligncenter"><img src="http://scp-yerko-5.wdfiles.com/local--files/crimen-con-portada/hipoppotamo.jpg" alt="hipoppotamo.jpg" class="image" /></div>
+<p><strong>Artículo:</strong> <strong><a href="/peligro-hipopotamos-de-medellin">Peligro: ¡Hipopótamos De Medellin!</a></strong><br />
+<strong>Escrito por:</strong> <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/uncle-nicolini" onclick="WIKIDOT.page.listeners.userInfo(3487700); return false;"><img class="small" src="http://www.wikidot.com/avatar.php?userid=3487700&amp;amp;size=small&amp;amp;timestamp=1618160876" alt="Uncle Nicolini" style="background-image:url(http://www.wikidot.com/userkarma.php?u=3487700)" /></a><a href="http://www.wikidot.com/user:info/uncle-nicolini" onclick="WIKIDOT.page.listeners.userInfo(3487700); return false;">Uncle Nicolini</a></span><br />
+<strong>Dibujo por:</strong> <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/agente-shuffle" onclick="WIKIDOT.page.listeners.userInfo(5065762); return false;"><img class="small" src="http://www.wikidot.com/avatar.php?userid=5065762&amp;amp;size=small&amp;amp;timestamp=1618160876" alt="Agente Shuffle" style="background-image:url(http://www.wikidot.com/userkarma.php?u=5065762)" /></a><a href="http://www.wikidot.com/user:info/agente-shuffle" onclick="WIKIDOT.page.listeners.userInfo(5065762); return false;">Agente Shuffle</a></span><br />
+<strong>Instagram:</strong> <a href="https://www.instagram.com/itsidmns/Click">aquí</a><br />
+<strong>Spotify:</strong> <a href="https://open.spotify.com/artist/7CaGekBuuCrCT9I20FLbHh">Click aquí</a><br />
+<strong>Newgrounds:</strong> <a href="https://idmns.newgrounds.com/">Click aquí</a></p>
+<div class="image-container aligncenter"><img src="http://scp-yerko-5.wdfiles.com/local--files/crimen-con-portada/naranja.jpg" alt="naranja.jpg" class="image" /></div>
+<p><strong>Artículo:</strong> <strong><a href="/un-asesinato-naranja">Emily Miranda en... &quot;UN ASESINATO NARANJA&quot;</a></strong><br />
+<strong>Escrito por:</strong> <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/ethanhanson" onclick="WIKIDOT.page.listeners.userInfo(4465845); return false;"><img class="small" src="http://www.wikidot.com/avatar.php?userid=4465845&amp;amp;size=small&amp;amp;timestamp=1618160876" alt="EthanHanson" style="background-image:url(http://www.wikidot.com/userkarma.php?u=4465845)" /></a><a href="http://www.wikidot.com/user:info/ethanhanson" onclick="WIKIDOT.page.listeners.userInfo(4465845); return false;">EthanHanson</a></span><br />
+<strong>Dibujo por:</strong> <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/watcoon" onclick="WIKIDOT.page.listeners.userInfo(5031022); return false;"><img class="small" src="http://www.wikidot.com/avatar.php?userid=5031022&amp;amp;size=small&amp;amp;timestamp=1618160876" alt="Watcoon" style="background-image:url(http://www.wikidot.com/userkarma.php?u=5031022)" /></a><a href="http://www.wikidot.com/user:info/watcoon" onclick="WIKIDOT.page.listeners.userInfo(5031022); return false;">Watcoon</a></span><br />
+<strong>Twitter:</strong> <a href="https://twitter.com/BoomDoom_Ent">Click aquí</a></p>
+<div class="image-container aligncenter"><img src="https://cdn.discordapp.com/attachments/691763397338857542/818982951655833670/SCP-ES-211.png" alt="SCP-ES-211.png" class="image" /></div>
+<p><strong>Artículo:</strong> <strong><a href="/scp-es-211">SCP-ES-211 - 91.1FM Radio Lupin, Transmitiendo a Detroit.</a></strong><br />
+<strong>Escrito por:</strong> <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/watcoon" onclick="WIKIDOT.page.listeners.userInfo(5031022); return false;"><img class="small" src="http://www.wikidot.com/avatar.php?userid=5031022&amp;amp;size=small&amp;amp;timestamp=1618160876" alt="Watcoon" style="background-image:url(http://www.wikidot.com/userkarma.php?u=5031022)" /></a><a href="http://www.wikidot.com/user:info/watcoon" onclick="WIKIDOT.page.listeners.userInfo(5031022); return false;">Watcoon</a></span><br />
+<strong>Dibujo por:</strong> <span class="printuser avatarhover"><a href="http://www.wikidot.com/user:info/bryan-hato" onclick="WIKIDOT.page.listeners.userInfo(6621937); return false;"><img class="small" src="http://www.wikidot.com/avatar.php?userid=6621937&amp;amp;size=small&amp;amp;timestamp=1618160876" alt="Bryan Hato" style="background-image:url(http://www.wikidot.com/userkarma.php?u=6621937)" /></a><a href="http://www.wikidot.com/user:info/bryan-hato" onclick="WIKIDOT.page.listeners.userInfo(6621937); return false;">Bryan Hato</a></span><br />
+<strong>Facebook:</strong> <a href="https://www.facebook.com/Hatoons-102289901199155">Click aquí</a></p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+//<![CDATA[
+OZONE.dom.onDomReady(function(){
+        var tabViewa7d0cce558d39f45091899fa12d73a2a = new YAHOO.widget.TabView('wiki-tabview-a7d0cce558d39f45091899fa12d73a2a');
+                }, "dummy-ondomready-block");
+        
+//]]>
+</script>
+<p><strong><a href="http://lafundacionscp.wikidot.com/crimen-con-2021">Click aquí para más detalles</a></strong></p>
+<p>¡Felicitaciones y muchísimas gracias a todos!</p>
+</div>
+
+
+
+<div class="content-panel centered standalone">
+<div class="carousel-container center" style="width: calc(100% + 34px);"><iframe src="http://scp-zh-tr.wikidot.com/local--code/component%3Acarousel/1#?images=http://lafundacionscp.wdfiles.com/local--files/main/CRIMEN%20CON.jpg,http://lafundacionscp.wdfiles.com/local--files/main/Deseos%202021.jpg,http://lafundacionscp.wdfiles.com/local--files/main/Team%20Criticas.jpg,http://lafundacionscp.wdfiles.com/local--files/main/Listas%20Curradas.jpg,http://scp-yerko-4.wdfiles.com/local--files/portada-2/Team%20Traducciones.jpg&amp;links=http://lafundacionscp.wikidot.com/crimen-con-2021,http://lafundacionscp.wikidot.com/forum/t-13966386/deseos-de-ano-nuevo,http://lafundacionscp.wikidot.com/forum/t-13898981/equipo-de-critica,http://lafundacionscp.wikidot.com/forum/t-13893048#post-4834694,http://lafundacionscp.wikidot.com/forum/t-13703851/reclutamiento-equipo-de-traducciones&amp;wiki={$wiki}&amp;page={$page}&amp;interval=5&amp;background={$background}&amp;options=yes" align="" frameborder="" height="" scrolling="no" width="" class="" style="width: calc(100% + 34px); height: calc(100px + 6px);"></iframe>
+<div class="carousel-caption-wrapper">
+<div class="carousel-caption {$no-caption}" style="width: calc(100%);">
+<p>Noticias Rápidas</p>
+</div>
+</div>
+</div>
+
+
+</div>
+<script type="text/javascript" src="http://d3g0gp89917ko0.cloudfront.net/v--3e3a6f7dbcc9/common--javascript/yahooui/tabview-min.js">
+</script>
+<div id="wiki-tabview-789757294124a96bd9661e8e8b73194d" class="yui-navset">
+<ul class="yui-nav">
+<li class="selected"><a href="javascript:;"><em>Recomendaciones del Mes</em></a></li>
+<li><a href="javascript:;"><em>Nuevos Artículos</em></a></li>
+</ul>
+<div class="yui-content">
+<div id="wiki-tab-0-0">
+<div class="feature-block">
+<div class="content-panel left-column">
+<div class="panel-heading">
+<p>SCP Destacado</p>
+</div>
+<div class="panel-body">
+<div class="feature-title">
+<p><a href="/scp-5031">SCP-5031</a> - Otro Monstruo Asesino Más</p>
+</div>
+<div class="feature-subtitle">
+<p>Autor: <span class="printuser"><a href="http://www.wikidot.com/user:info/peppersghost" onclick="WIKIDOT.page.listeners.userInfo(1553042); return false;">PeppersGhost</a></span><br />
+Traductor: <span class="printuser"><a href="http://www.wikidot.com/user:info/detective-marw" onclick="WIKIDOT.page.listeners.userInfo(1874588); return false;">Detective Marw</a></span></p>
+</div>
+<br />
+<span style="font-size:95%;">SCP-5031 es una criatura cuasi humana no inteligente de origen desconocido. Cuando es observada directamente, SCP-5031 dejará de existir temporalmente hasta que el espectador deje de observar el espacio que SCP-5031 ocupaba anteriormente.</span></div>
+<div class="panel-footer">
+<p><a href="/archivo-de-articulos-destacados">Archivo de Artículos Destacados</a></p>
+</div>
+</div>
+<div class="content-panel right-column">
+<div class="panel-heading">
+<p>SCP-ES Destacado</p>
+</div>
+<div class="panel-body">
+<div class="feature-title">
+<p><a href="/scp-es-201">SCP-ES-201</a> - Theatrum mundi</p>
+</div>
+<div class="feature-subtitle">
+<p>Autor: <span class="printuser"><a href="http://www.wikidot.com/user:info/shadow-mask" onclick="WIKIDOT.page.listeners.userInfo(5279760); return false;">Shadow-MASK</a></span></p>
+</div>
+<br />
+<span style="font-size:95%;">SCP-ES-201 es un autómata humanoide de apariencia femenina, con una altura de 1.70m. SCP-ES-201 está recubierto de placas de fibra de vidrio de formas variables de cuatro y tres lados, interconectadas por filamentos de hilos de algodón marrones.</span></div>
+<div class="panel-footer">
+<p><a href="/archivo-de-articulos-destacados">Archivo de Artículos Destacados</a></p>
+</div>
+</div>
+</div>
+<div class="feature-block">
+<div class="content-panel left-column">
+<div class="panel-heading">
+<p>Relato Destacado</p>
+</div>
+<div class="panel-body">
+<div class="feature-title">
+<p><a href="/substation-9">Subestación 9</a></p>
+</div>
+<div class="feature-subtitle">
+<p>Autor: <span class="printuser"><a href="http://www.wikidot.com/user:info/the-great-hippo" onclick="WIKIDOT.page.listeners.userInfo(3938622); return false;">The Great Hippo</a></span><br />
+Traductor: <span class="printuser"><a href="http://www.wikidot.com/user:info/morhadow" onclick="WIKIDOT.page.listeners.userInfo(3535580); return false;">morhadow</a></span></p>
+</div>
+<p><span style="font-size:95%;">Lo más lejos que cualquiera de nosotros ha llegado a este túnel es de unos 500 metros… eso son cinco campos de fútbol, o menos de un tercio de milla. ¿Qué hay más allá de eso, se preguntan?</span></p>
+</div>
+<div class="panel-footer">
+<p><a href="/archivo-de-articulos-destacados">Archivo de Artículos Destacados</a></p>
+</div>
+</div>
+<div class="content-panel right-column">
+<div class="panel-heading">
+<p>Relato-ES Destacado</p>
+</div>
+<div class="panel-body">
+<div class="feature-title">
+<p><a href="/creek-wood-31-de-octubre-de-2018">Creek Wood, 31 de octubre de 2018</a></p>
+</div>
+<div class="feature-subtitle">
+<p>Autor: <span class="printuser"><a href="http://www.wikidot.com/user:info/drcastillo" onclick="WIKIDOT.page.listeners.userInfo(1749310); return false;">DrCastillo</a></span></p>
+</div>
+<br />
+<span style="font-size:95%;">Detrás de ella sintió una presencia, un algo, que se acercaba lentamente. Los pelos de su espalda y nuca se erizaron. Tenía miedo incluso de respirar. Sintió muy dentro de sí, un impulso primitivo le decía que corra, que huya, que se esconda de aquello.</span></div>
+<div class="panel-footer">
+<p><a href="/archivo-de-articulos-destacados-es">Archivo de Artículos Originales Destacados</a></p>
+</div>
+</div>
+</div>
+</div>
+<div id="wiki-tab-0-1" style="display:none">
+<div class="feature-block">
+<div class="content-panel left-column">
+<div class="panel-heading">
+<p>Traducciones Recientes</p>
+</div>
+<div class="panel-body"><div class="list-pages-box">    
+
+<p><a href="/scp-5383">SCP-5383</a><br />
+<a href="/scp-5975">SCP-5975</a><br />
+<a href="/scp-5043">SCP-5043</a><br />
+<a href="/scp-2407">SCP-2407</a><br />
+<a href="/scp-1275">SCP-1275</a><br />
+<a href="/scp-2026-jp">SCP-2026-JP</a><br />
+<a href="/a-quiet-night">Una Noche Tranquila</a></p>
+
+    
+    
+    
+    </div></div>
+<div class="panel-footer">
+<p><a href="/traducciones-recientes">Más Traducciones Recientes</a></p>
+</div>
+</div>
+<div class="content-panel right-column">
+<div class="panel-heading">
+<p>Originales Recientes</p>
+</div>
+<div class="panel-body"><div class="list-pages-box">    
+
+<p><a href="/la-dama-del-sol">La Dama del Sol</a><br />
+<a href="/component:mc-d-i-57">Tema de MC&amp;D en la Instalación-57</a><br />
+<a href="/mcd-tabula-veritatis">&quot;Tabula Veritatis&quot; (MG5P8/RF33G/7UL45)</a><br />
+<a href="/archivo-udii-2022-008">Archivo UdII: 2022-008</a><br />
+<a href="/hub-sueno-nuclear">Hub Sueño Nuclear</a><br />
+<a href="/scp-es-058">SCP-ES-058</a></p>
+
+    
+    
+    
+    </div></div>
+<div class="panel-footer">
+<p><a href="/originales-recientes">Más Originales Recientes</a></p>
+</div>
+</div>
+</div>
+<div class="feature-block">
+<div class="content-panel right-column">
+<div class="panel-heading">
+<p>Galerías Creadas Recientemente</p>
+</div>
+<div class="panel-body"><div class="list-pages-box">    
+
+<p><a href="/trece-arte">Arte entre Trece Comillas</a><br />
+<a href="/esporas-artisticas-del-dr-slash-hongo">Esporas artísticas del Dr. Slash Hongo</a><br />
+<a href="/galeria-de-hatoons">Galeria De Hatoons</a><br />
+<a href="/la-casita-de-virsh">La Casita De Virsh</a><br />
+<a href="/galeria-de-naoya">Galeria de Naoya</a><br />
+<a href="/galeria-de-barjakal">Barbería de Barjakal</a><br />
+<a href="/galeria-de-spadphy">Galeria De Spadphy</a></p>
+
+    
+    
+    
+    </div></div>
+<div class="panel-footer">
+<p><a href="/arte-es-hub">Más Galerías de Arte</a></p>
+</div>
+</div>
+<div class="content-panel left-column">
+<div class="panel-heading">
+<p>Galerías Actualizadas Recientemente</p>
+</div>
+<div class="panel-body"><div class="list-pages-box">    
+
+<p><a href="/galeria-de-merlin">Galería de Merlin</a><br />
+<a href="/galeria-de-spadphy">Galeria De Spadphy</a><br />
+<a href="/trece-arte">Arte entre Trece Comillas</a><br />
+<a href="/la-casita-de-virsh">La Casita De Virsh</a><br />
+<a href="/galeria-de-ixchel-the-moon">Galería De Amai-Ixchel</a><br />
+<a href="/zona-artistica-de-toribio">Zona Artística de Toribio</a><br />
+<a href="/esporas-artisticas-del-dr-slash-hongo">Esporas artísticas del Dr. Slash Hongo</a></p>
+
+    
+    
+    
+    </div></div>
+<div class="panel-footer">
+<p><a href="/arte-es-hub">Más Galerías de Arte</a></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+//<![CDATA[
+OZONE.dom.onDomReady(function(){
+        var tabView789757294124a96bd9661e8e8b73194d = new YAHOO.widget.TabView('wiki-tabview-789757294124a96bd9661e8e8b73194d');
+                }, "dummy-ondomready-block");
+        
+//]]>
+</script>
+<div class="news-block content-panel">
+<div class="panel-heading">
+<p>Noticias</p>
+</div>
+<div class="panel-body">
+<div class="alternate unmargined">
+<div class="news-title">
+<p>25 de Enero, 2021</p>
+</div>
+<div class="news-content">
+<p><a href="http://lafundacionscp.wikidot.com/crimen-con-2021">¡Nuevo Concurso! ¡Haz click aquí para enterarte de todas las novedades sobre Crimen-Con 2021!</a></p>
+</div>
+</div>
+<div class="alternate unmargined">
+<div class="news-title">
+<p>21 de Noviembre, 2020</p>
+</div>
+<div class="news-content">
+<p>¡Y finalmente el #TeamCalacas ha resultado ganador del concurso <a href="http://lafundacionscp.wikidot.com/halloween-con-2020">Halloween-Con 2020</a>! ¡Muchísimas gracias a todos por participar, y muchas felicidades!</p>
+</div>
+</div>
+<div class="alternate unmargined">
+<div class="news-title">
+<p>15 de Octubre, 2020</p>
+</div>
+<div class="news-content">
+<p><a href="http://lafundacionscp.wikidot.com/halloween-con-2020">¡Nuevo tenebroso concurso! ¡Halloween-Con 2020!</a></p>
+</div>
+</div>
+<div class="alternate unmargined">
+<div class="news-title">
+<p>7 de Septiembre, 2020</p>
+</div>
+<div class="news-content">
+<p>¡El Equipo de Traducciones está buscando nuevos miembros! ¿Crees tener lo necesario? <a href="http://lafundacionscp.wikidot.com/forum/t-13703851/reclutamiento-equipo-de-traducciones">¡Postúlate aquí!</a></p>
+</div>
+</div>
+<div class="alternate unmargined">
+<div class="news-title">
+<p>18 de Mayo, 2020</p>
+</div>
+<div class="news-content">
+<p>¡Estrenamos nuevo Instagram! ¡Sigue a <a href="https://www.instagram.com/scp.es/">@scp.es</a> para enterarte de todo lo que sucede en la Rama Hispana y La Fundación!</p>
+</div>
+</div>
+<div class="alternate unmargined">
+<div class="news-title">
+<p>5 de Mayo, 2020</p>
+</div>
+<div class="news-content">
+<p>Hoy nosotros, la Rama Hispanohablante Oficial de La Fundación SCP, cumplimos 7 años de existencia. ¡Muchas gracias a todos por hacer de este sitio lo que hoy es!</p>
+</div>
+</div>
+</div>
+<div class="panel-footer">
+<p><a href="/noticias-archivadas">Noticias Archivadas</a></p>
+</div>
+</div>
+<hr />
+<div class="international-block content-panel">
+<div class="panel-heading">
+<p>SCP International</p>
+</div>
+<div class="panel-body">
+<div class="international-entry">
+<div class="international-title"><img src="http://lafundacionscp.wdfiles.com/local--files/main/int.png" alt="int.png" class="image" /> <a href="http://scp-int.wikidot.com/">SCP-INT</a> &#8212; International Translation Archive</div>
+<div class="international-description">
+<p>Un lugar de reunión para la Comunidad Internacional de la Fundación SCP</p>
+</div>
+<div class="international-footer">
+<p>Admins: <span class="printuser"><a href="http://www.wikidot.com/user:info/dr-grym" onclick="WIKIDOT.page.listeners.userInfo(1838016); return false;">Dr Grym</a></span> &#8212; <span class="printuser"><a href="http://www.wikidot.com/user:info/dr-grom" onclick="WIKIDOT.page.listeners.userInfo(2026083); return false;">Dr_Grom</a></span></p>
+</div>
+</div>
+</div>
+<div class="panel-footer">
+<p> </p>
+</div>
+</div>
+<div class="international-block content-panel">
+<div class="panel-heading">
+<p>Wikis de la Fundación</p>
+</div>
+<div class="panel-body">
+<div class="c_international-body">
+<div class="c_international-box">
+<div class="c_international-logo"><a href="http://www.scp-wiki.net/"><img src="http://scp-int.wdfiles.com/local--files/main/scp-logo-en-400.png" alt="scp-logo-en-400.png" class="image" /></a></div>
+<div class="c_international-text">
+<p><a href="http://www.scp-wiki.net/">SCP Foundation</a><br />
+<em>Rama Madre - Inglés</em></p>
+</div>
+</div>
+<div class="c_international-box">
+<div class="c_international-logo"><a href="http://scp-ru.wikidot.com/"><img src="http://o5command-int.wdfiles.com/local--files/tech-team:graphic-templates/scp-logo-ru-400.png" alt="scp-logo-ru-400.png" class="image" /></a></div>
+<div class="c_international-text">
+<p><a href="http://scp-ru.wikidot.com/">Фонд SCP</a><br />
+<em>Ruso</em></p>
+</div>
+</div>
+<div class="c_international-box">
+<div class="c_international-logo"><a href="http://ko.scp-wiki.net/"><img src="http://o5command-int.wdfiles.com/local--files/tech-team:graphic-templates/scp-logo-ko-400.png" alt="scp-logo-ko-400.png" class="image" /></a></div>
+<div class="c_international-text">
+<p><a href="http://ko.scp-wiki.net/">SCP 재단</a><br />
+<em>Coreano</em></p>
+</div>
+</div>
+<div class="c_international-box">
+<div class="c_international-logo"><a href="http://scp-wiki-cn.wikidot.com/"><img src="http://o5command-int.wdfiles.com/local--files/tech-team:graphic-templates/scp-logo-cn-400.png" alt="scp-logo-cn-400.png" class="image" /></a></div>
+<div class="c_international-text">
+<p><a href="http://scp-wiki-cn.wikidot.com/">SCP基金会</a><br />
+<em>Chino</em></p>
+</div>
+</div>
+<div class="c_international-box">
+<div class="c_international-logo"><a href="http://fondationscp.wikidot.com/"><img src="http://o5command-int.wdfiles.com/local--files/tech-team:graphic-templates/scp-logo-fr-400.png" alt="scp-logo-fr-400.png" class="image" /></a></div>
+<div class="c_international-text">
+<p><a href="http://fondationscp.wikidot.com/">Fondation SCP</a><br />
+<em>Francés</em></p>
+</div>
+</div>
+<div class="c_international-box">
+<div class="c_international-logo"><a href="http://scp-wiki.net.pl"><img src="http://o5command-int.wdfiles.com/local--files/tech-team:graphic-templates/scp-logo-pl-400.png" alt="scp-logo-pl-400.png" class="image" /></a></div>
+<div class="c_international-text">
+<p><a href="http://scp-wiki.net.pl">Fundacja SCP</a><br />
+<em>Polaco</em></p>
+</div>
+</div>
+<div class="c_international-box">
+<div class="c_international-logo"><a href="http://lafundacionscp.wikidot.com/"><img src="http://o5command-int.wdfiles.com/local--files/tech-team:graphic-templates/scp-logo-es-400.png" alt="scp-logo-es-400.png" class="image" /></a></div>
+<div class="c_international-text">
+<p><a href="http://lafundacionscp.wikidot.com/">La Fundación SCP</a><br />
+<em>La Mejor</em></p>
+</div>
+</div>
+<div class="c_international-box">
+<div class="c_international-logo"><a href="http://scp-th.wikidot.com/"><img src="http://o5command-int.wdfiles.com/local--files/tech-team:graphic-templates/scp-logo-th-400.png" alt="scp-logo-th-400.png" class="image" /></a></div>
+<div class="c_international-text">
+<p><a href="http://scp-th.wikidot.com/">สถาบัน SCP</a><br />
+<em>Tailandés</em></p>
+</div>
+</div>
+<div class="c_international-box">
+<div class="c_international-logo"><a href="http://scp-jp.wikidot.com/"><img src="http://o5command-int.wdfiles.com/local--files/tech-team:graphic-templates/scp-logo-jp-400.png" alt="scp-logo-jp-400.png" class="image" /></a></div>
+<div class="c_international-text">
+<p><a href="http://scp-jp.wikidot.com/">SCP財団</a><br />
+<em>Japonés</em></p>
+</div>
+</div>
+<div class="c_international-box">
+<div class="c_international-logo"><a href="http://scp-wiki-de.wikidot.com/"><img src="http://o5command-int.wdfiles.com/local--files/tech-team:graphic-templates/scp-logo-de-400.png" alt="scp-logo-de-400.png" class="image" /></a></div>
+<div class="c_international-text">
+<p><a href="http://scp-wiki-de.wikidot.com/">SCP auf Deutsch</a><br />
+<em>Alemán</em></p>
+</div>
+</div>
+<div class="c_international-box">
+<div class="c_international-logo"><a href="http://fondazionescp.wikidot.com"><img src="http://o5command-int.wdfiles.com/local--files/tech-team:graphic-templates/scp-logo-it-400.png" alt="scp-logo-it-400.png" class="image" /></a></div>
+<div class="c_international-text">
+<p><a href="http://fondazionescp.wikidot.com/">Fondazione SCP</a><br />
+<em>Italiano</em></p>
+</div>
+</div>
+<div class="c_international-box">
+<div class="c_international-logo"><a href="http://scp-ukrainian.wikidot.com/"><img src="http://scp-wiki.wdfiles.com/local--files/scp-international/scp-logo-ua-400.png" alt="scp-logo-ua-400.png" class="image" /></a></div>
+<div class="c_international-text">
+<p><a href="http://scp-ukrainian.wikidot.com/">Фонд SCP</a><br />
+<em>Ucraniano</em></p>
+</div>
+</div>
+<div class="c_international-box">
+<div class="c_international-logo"><a href="http://scp-pt-br.wikidot.com/"><img src="http://scp-wiki.wdfiles.com/local--files/scp-international/scp-logo-pt-400.png" alt="scp-logo-pt-400.png" class="image" /></a></div>
+<div class="c_international-text">
+<p><a href="http://scp-pt-br.wikidot.com/">Fundação SCP</a><br />
+<em>Portugués</em></p>
+</div>
+</div>
+<div class="c_international-box">
+<div class="c_international-logo"><a href="http://scp-cs.wikidot.com/"><img src="http://scp-int.wdfiles.com/local--files/main/scp-logo-cs-400.png" alt="scp-logo-cs-400.png" class="image" /></a></div>
+<div class="c_international-text">
+<p><a href="http://scp-cs.wikidot.com/">SCP Nadace</a><br />
+<em>Checo</em></p>
+</div>
+</div>
+<div class="c_international-box">
+<div class="c_international-logo"><a href="http://scp-zh-tr.wikidot.com/"><img src="http://scp-int.wdfiles.com/local--files/main/scp-logo-zh-400.png" alt="scp-logo-zh-400.png" class="image" /></a></div>
+<div class="c_international-text">
+<p><a href="http://scp-zh-tr.wikidot.com/">SCP基金會</a><br />
+<em>Chino Tradicional</em></p>
+</div>
+</div>
+<div class="c_international-box">
+<div class="c_international-logo"><a href="http://scp-un.wikidot.com/"><img src="http://scp-un.wdfiles.com/local--files/main/scp-logo-uli-full-1_400.png" alt="scp-logo-uli-full-1_400.png" class="image" /></a></div>
+<div class="c_international-text">
+<p><a href="http://scp-un.wikidot.com/">Incubador de Lenguajes</a><br />
+<em>Cualquier Idioma</em></p>
+</div>
+</div>
+</div>
+<div class="international-entry">
+<div class="international-title"><img src="http://o5command-int.wdfiles.com/local--files/component:ubb-base/un.png" alt="un.png" class="image" /> Wikis No-Oficiales</div>
+<div class="international-description" style="font-style: normal;">
+<table style="width: 100%;">
+<tr>
+<td><img src="http://o5command-int.wdfiles.com/local--files/component:ubb-base/el.png" alt="el.png" class="image" /> <a href="http://scp-el.wikidot.com/">SCP-EL</a> &#8212; Griego</td>
+<td><img src="http://o5command-int.wdfiles.com/local--files/component:ubb-base/nd.png" alt="nd.png" class="image" /> <a href="http://scp-nd.wikidot.com/">SCP-ND</a> &#8212; Nórdico</td>
+<td><img src="http://o5command-int.wdfiles.com/local--files/component:ubb-base/tr.png" alt="tr.png" class="image" /> <a href="http://scpvakfi.wikidot.com/">SCP-TR</a> &#8212; Turco</td>
+</tr>
+<tr>
+<td><img src="http://o5command-int.wdfiles.com/local--files/component:ubb-base/vn.png" alt="vn.png" class="image" /> <a href="http://scp-vn.wikidot.com/">SCP-VN</a> &#8212; Vietnamita</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+<div class="panel-footer">
+<p><a href="http://scp-un.wikidot.com/">其他語言</a></p>
+</div>
+</div>
+<hr />
+<div class="content-panel centered standalone">
+<table>
+<tr>
+<td style="padding:5px; width:88px;"><a href="http://creativecommons.org/licenses/by-sa/3.0/"><img src="https://i.creativecommons.org/l/by-sa/3.0/88x31.png" alt="Creative Commons License" class="image" /></a></td>
+<td style="padding:5px;">Esta wiki se encuentra protegida por licencia <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.zh_TW">Creative Commons Attribution-ShareAlike 3.0</a>.<br />
+El Tema de <strong>Sigma-9</strong> fue creado por <span class="printuser"><a href="http://www.wikidot.com/user:info/aelanna" onclick="WIKIDOT.page.listeners.userInfo(334454); return false;">Aelanna</a></span>, bajo la misma licencia.</td>
+</tr>
+</table>
+</div>
+
+
+
+                    </div>
+
+                            
+            <!-- wikidot_bottom_300x250 -->
+<div id="wad-lafundacionscp-below-content" class="wd-adunit wd-ad-np wd-adunit-below_content"></div>
+<script type='text/javascript'>
+nads.createAd('wad-lafundacionscp-below-content', {
+  "refreshLimit": 10,
+  "refreshTime": 83,
+  "sizes": [ [ 300, 250 ] ],
+  "report": {
+    "enabled": true,
+    "wording": "Report Ad",
+    "position": "bottom-right"
+  }
+  });
+</script>
+        
+    
+
+                    
+
+
+
+                    
+                        <div class="page-tags">
+                            <span>
+                                <a href="/system:page-tags/tag/admin#pages">admin</a><a href="/system:page-tags/tag/hub#pages">hub</a>
+                            </span>
+                        </div>
+                    
+
+                    <div id="page-info-break"></div>
+                    
+                        <div id="page-options-container">
+                            <div id="page-info">revisión de página: 346, última edición: <span class="odate time_1618160876 format_%25e%20%25b%20%25Y%2C%20%25H%3A%25M%20%28%25O%20atr%C3%A1s%29">11 Apr 2021 17:07</span></div>
+            <div id="page-options-bottom"  class="page-options-bottom">
+            <a href="javascript:;" class="btn btn-default" id="edit-button">Edita</a>
+<a href="javascript:;" class="btn btn-default" id="pagerate-button">Puntuar (<span id="prw54355">+45</span>)</a>
+<a href="javascript:;" class="btn btn-default" id="tags-button">Etiquetas</a>
+<a href="/forum/t-668421/main" class="btn btn-default" id="discuss-button">Discutir (2)</a>
+<a href="javascript:;" class="btn btn-default" id="history-button">Historial</a>
+<a href="javascript:;" class="btn btn-default" id="files-button">Archivos</a>
+<a href="javascript:;" class="btn btn-default" id="print-button">Imprimir</a>
+<a href="javascript:;" class="btn btn-default" id="site-tools-button">Herramientas del sitio</a>
+<a href="javascript:;" class="btn btn-default" id="more-options-button">+&nbsp;Opciones</a> 
+</div>
+<div id="page-options-bottom-2" class="page-options-bottom form-actions" style="display:none">
+    <a href="javascript:;" class="btn btn-default" id="edit-sections-button">Edita secciones</a>
+    <a href="javascript:;" class="btn btn-default" id="edit-append-button">Añade</a>
+    <a href="javascript:;" class="btn btn-default" id="edit-meta-button">Edita metadatos</a>
+    <a href="javascript:;" class="btn btn-default" id="watchers-button">Observadores</a> 
+    <a href="javascript:;" class="btn btn-default" id="backlinks-button">Retroenlaces</a> 
+    <a href="javascript:;" class="btn btn-default" id="view-source-button">Código de página</a> 
+    <a href="javascript:;" class="btn btn-default" id="parent-page-button">Ascendiente</a> 
+    <a href="javascript:;" class="btn btn-default" id="page-block-button">Bloquea la página</a>    
+    <a href="javascript:;" class="btn btn-default" id="rename-move-button">Renombra</a> 
+    <a href="javascript:;" class="btn btn-default" id="delete-button">Borrar</a> 
+</div>
+<div id="page-options-area-bottom">
+</div>
+
+                        </div>
+                    
+                    <div id="action-area" style="display: none;"></div>
+                </div>
+            </div>
+            
+            
+            
+            <div id="footer" style="display: block; visibility: visible;">
+                <div class="options" style="display: block; visibility: visible;">
+    <a href="http://www.wikidot.com/doc" id="wikidot-help-button">Ayuda</a>
+    &nbsp;|
+    <a href="http://www.wikidot.com/legal:terms-of-service" id="wikidot-tos-button">Condiciones del servicio</a>
+    &nbsp;|
+    <a href="http://www.wikidot.com/legal:privacy-policy" id="wikidot-privacy-button">Privacidad</a>
+    &nbsp;|
+    <a href="javascript:;" id="bug-report-button" onclick="WIKIDOT.page.listeners.pageBugReport(event)">Informar de un fallo</a>
+    &nbsp;|
+    <a href="javascript:;" id="abuse-report-button" onclick="WIKIDOT.page.listeners.flagPageObjectionable(event)">Denunciar como objetable</a>
+</div>
+Desarrollado por <a href="http://www.wikidot.com">Wikidot.com</a> 
+            </div>
+            
+                <div id="license-area" class="license-area">
+                    Si no se indica lo contrario, el contenido de esta página se ofrece bajo <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike 3.0 License</a>
+                </div>
+            
+            
+            
+
+
+
+            <div id="extrac-div-1"><span></span></div><div id="extrac-div-2"><span></span></div><div id="extrac-div-3"><span></span></div>
+            
+            
+            
+            
+                <div id="footer-bar">
+  <div>
+     </div>
+  <h2>Otros sitios interesantes</h2>
+  
+  <div class="units">
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://summer350.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/summer350.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://summer350.wikidot.com">Summer 3500</a></h3>
+            <div class="desc">          
+              Engineering Communications
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://lightcrown.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/lightcrown.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://lightcrown.wikidot.com">耀冕星环</a></h3>
+            <div class="desc">          
+              LIGHTCROWN
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://maximum-tension.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/maximum-tension.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://maximum-tension.wikidot.com">Maximum Tension</a></h3>
+            <div class="desc">          
+              Programing / Design Lab.
+            </div>
+          </div>
+        </div>
+              <div class="unit">
+          <div class="inner">
+            <a target="_blank" class="image" href="http://energyfuture.wikidot.com">
+              <img class="thumbnail" alt="" src="http://thumbnails.wdfiles.com/thumbnail/site/energyfuture.wikidot.com/80.jpg"/>
+            </a>
+            <h3><a target="_blank" href="http://energyfuture.wikidot.com">The Future of Energy</a></h3>
+            <div class="desc">          
+              Analyzing The Options
+            </div>
+          </div>
+        </div>
+        </div>
+  </div>
+
+            
+        </div>
+        
+    </div>
+<!-- These extra divs/spans may be used as catch-alls to add extra imagery. -->
+<div id="extra-div-1"><span></span></div><div id="extra-div-2"><span></span></div><div id="extra-div-3"><span></span></div>
+<div id="extra-div-4"><span></span></div><div id="extra-div-5"><span></span></div><div id="extra-div-6"><span></span></div>
+</div>
+
+
+
+
+</div>
+<div id="dummy-ondomready-block" style="display: none;" ></div>
+    <!-- Google Analytics load -->
+    <script type="text/javascript">
+        (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+
+    <!-- Quantcast -->
+    <script type="text/javascript">
+    _qoptions={
+        qacct:"p-edL3gsnUjJzw-"
+    };
+    (function() {
+        var qc = document.createElement('script'); qc.type = 'text/javascript'; qc.async = true;
+        qc.src = ('https:' == document.location.protocol ? 'https://secure' : 'http://edge') + '.quantserve.com/quant.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(qc, s);
+    })();
+    </script>
+    <noscript>
+        <img src="http://pixel.quantserve.com/pixel/p-edL3gsnUjJzw-.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+    </noscript>
+
+
+
+
+<div id="page-options-bottom-tips" style="display: none;">
+    <div id="edit-button-hovertip">
+        Pulsa aquí para editar el contenido de esta página.    </div>
+</div>
+<div id="page-options-bottom-2-tips"  style="display: none;">
+    <div id="edit-sections-button-hovertip">
+        Clic aquí para activar o desactivar la edición de secciones individuales de la página (de ser posible). Revisa en los encabezados un enlace &quot;editar&quot; cuando esté disponible    </div>
+    <div id="edit-append-button-hovertip">
+        Agrega contenido al final sin tener que editar la página completa.    </div>
+    <div id="history-button-hovertip">
+        Comprueba cómo evolucionó esta página en el pasado.    </div>
+    <div id="discuss-button-hovertip">
+        Si quieres discutir el contenido de esta página, esta es la forma más fácil de hacerlo.    </div>
+    <div id="files-button-hovertip">
+        Ver y administrar archivos adjuntos a esta página.    </div>
+    <div id="site-tools-button-hovertip">
+        Unas cuantas herramientas para administrar este sitio.    </div>
+    <div id="backlinks-button-hovertip">
+        Mostrar las páginas que enlazan a ésta o la incluyen.    </div>
+    <div id="rename-move-button-hovertip">
+        Cambia el nombre (también el URL, posiblemente la categoría) de la página.    </div>
+    <div id="view-source-button-hovertip">
+        Mostrar el código fuente wiki de esta página sin editarla.    </div>
+    <div id="parent-page-button-hovertip">  
+        Ver/definir página padre (usada para crear migas de pan y diseño estructurado)    </div>
+            <div id="abuse-report-button-hovertip">
+            Notifque a los administradores si hay contenido objetable en esta página        </div>
+        <div id="bug-report-button-hovertip">
+            Something does not work as expected? Find out what you can do.        </div>
+        <div id="wikidot-help-button-hovertip">
+            Sección de documentación general y ayuda de Wikidot.com.        </div>
+        <div id="wikidot-tos-button-hovertip">
+            Condiciones del servicio de Wikidot.com - qué puede hacer, qué no debe hacer, etc.        </div>
+        <div id="wikidot-privacy-button-hovertip">
+            Política de privacidad de Wikidot.com          
+        </div>
+    </div>
+</body>
+</html>
