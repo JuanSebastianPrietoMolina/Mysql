@@ -1,0 +1,173 @@
+ Create database DB_Ejercicio_Select;
+ Use DB_Ejercicio_Select;
+ 
+ create table articulos( 
+  codigo integer, 
+  nombre varchar(20), 
+  descripcion varchar(30), 
+  precio float, 
+  cantidad integer 
+  );
+
+
+describe articulos;
+  
+ insert into articulos values 
+(1,'impresora','Epson Stylus C45',400.80,20),
+(2,'impresora','Epson Stylus C85',500,30),
+(3,'monitor','Samsung 14',800,10),
+(4,'teclado','ingles Biswal',100,50), 
+(5,'teclado','español Biswal',90,50); 
+
+select * from articulos;
+
+
+DELETE FROM articulos WHERE precio = 500;
+
+DELETE FROM articulos WHERE precio > 500;
+
+DELETE FROM articulos WHERE nombre = "Impresora" ;
+
+DELETE FROM articulos WHERE codigo > 4 ;
+
+SET SQL_SAFE_UPDATES = 0;
+
+ create table agenda( 
+  apellido varchar(30), 
+  nombre varchar(20), 
+  domicilio varchar(30), 
+  telefono varchar(11) 
+ ); 
+ 
+describe agenda;
+
+insert into agenda values
+("Mores","Alberto","Colon 123","4234567"), 
+("Torres","Juan","Avellaneda 135","4458787"), 
+("Lopez","Mariana","Urquiza 333","4545454"), 
+("Lopez","Jose","Urquiza 333","4545454"), 
+("Peralta","Susana","Gral Paz 1234","4123456");
+
+UPDATE agenda set nombre = 'Juan Jose' where nombre = 'juan';
+
+select * from agenda;
+
+UPDATE agenda set telefono = '4445566' where telefono = '4545454';
+
+insert into agenda values
+("Torress","Juan","Avellaneda 1355","4458787");
+UPDATE agenda set nombre = 'Juaquin' where nombre = 'juan';
+
+create table libros ( 
+ titulo varchar(50), 
+ autor varchar(50), 
+ editorial varchar(50),
+ precio float 
+ );
+
+describe Libros;
+
+Insert into libros Values 
+('100 años de Soledad','Garcia Marquez','Planeta', 15.00),
+('El aleph','Borges','Planeta',25.50),
+('Martin Fierro','Jose Hernandez','Emece',25.00),
+('Aprenda PHP','Mario Molina','Emece',25),
+('Cervantes','Borges','Paidos',40.80),
+('Matematica estas ahi', 'Paenza', 'Paidos',40.80); 
+ 
+Select*from Libros;
+
+update Libros set autor ='Adrian Paenza' where autor="Paenza" ;
+
+update Libros set precio='27' where autor = 'Mario Molina' ;
+
+update Libros set Editorial ='Emece S.A.' where editorial = 'emece';
+
+drop table articulos; 
+
+ create table articulos( 
+  codigo integer, 
+  nombre varchar(20), 
+  descripcion varchar(30), 
+  precio float, 
+  cantidad integer 
+ ); 
+ 
+ describe articulos;
+ 
+ 
+  insert into articulos (codigo, nombre, descripcion, precio,cantidad) 
+  values (1,'impresora','Epson Stylus C45',400.80,20); 
+ insert into articulos (codigo, nombre, descripcion, precio,cantidad) 
+  values (2,'impresora','Epson Stylus C85',500,30); 
+ insert into articulos (codigo, nombre, descripcion, precio,cantidad) 
+  values (3,'monitor','Samsung 14',800,10); 
+ insert into articulos (codigo, nombre, descripcion, precio,cantidad) 
+  values (4,'teclado','ingles Biswal',100,50); 
+ insert into articulos (codigo, nombre, descripcion, precio,cantidad) 
+  values (5,'teclado','español Biswal',90,50); 
+  
+  
+update articulos set precio ='400' where descripcion = 'Epson Stylus C45';
+
+update articulos set precio ='100' where nombre = 'Teclado';
+
+update articulos set cantidad ='50' , precio ='550' where codigo = '2'; 
+
+update articulos set precio ='1000' where precio = '100';
+
+Select*from articulos;
+
+
+drop table agenda;
+
+ create table agenda( 
+nombre varchar(20), 
+apellido varchar(30),  
+domicilio varchar(30), 
+telefono varchar(11) 
+); 
+
+describe agenda;
+
+  insert into agenda values
+("Mores","Alberto","Colon 123","4234567"), 
+("Torres","Juan","Avellaneda 135","4458787"), 
+("Lopez","Mariana","Urquiza 333","4545454"), 
+("Lopez","Jose","Urquiza 333","4545454"), 
+("Peralta","Susana","Gral. Paz 1234","4123456");
+
+DELETE FROM agenda WHERE apellido = "Juan" ;
+
+DELETE FROM agenda WHERE Telefono = "4545454" ;
+
+Select*from agenda;
+
+Drop table Libros;
+
+create table libros ( 
+ titulo varchar(50), 
+ autor varchar(50), 
+ editorial varchar(50),
+ precio float 
+ );
+ 
+ describe libros; 
+
+ Insert into libros Values 
+('El aleph','Borges','Planeta',15.50),
+('Martin Fierro','Jose Hernandez','Emece',25.50),
+('Aprenda PHP','Mario Molina','Emece',26.80),
+('Cervantes','Borges','Paidos',45.50),
+('Matematica estas ahi', 'Paenza', 'Paidos',50.80); 
+
+ Select*from libros;
+ 
+ DELETE FROM libros WHERE autor = "Paenza" ;
+ 
+DELETE FROM libros WHERE autor = "Paenza" ; 
+
+DELETE FROM libros WHERE precio > "40" and precio = "40" ;
+
+
+delete from libros 
